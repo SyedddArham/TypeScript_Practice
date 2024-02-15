@@ -1,0 +1,5 @@
+var things_i_like = ["Mount Chilli, Ford Mustang", "Apples", "The Great Pyramids of Giza"];
+console.log("List of things i like: ");
+for (var i = 0; i < things_i_like.length; i++) {
+    console.log("I like ", things_i_like[i]);
+}
