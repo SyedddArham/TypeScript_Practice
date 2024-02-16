@@ -1,5 +1,4 @@
-var things_i_like = ["Mount Chilli, Ford Mustang", "Apples", "The Great Pyramids of Giza"];
-console.log("List of things i like: ");
-for (var i = 0; i < things_i_like.length; i++) {
-    console.log("I like ", things_i_like[i]);
-}
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.cars = void 0;
+exports.cars = ["GT-R", "Mustang", "Charger", "Supra"];
