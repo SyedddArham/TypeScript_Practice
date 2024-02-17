@@ -7,7 +7,6 @@ let value = cars[5]
 //this line will give the error since index 6 doesnot exist
 console.log(value)
 
-
 //corrected version, assing the correct index
 value = cars[0]
 console.log(value)

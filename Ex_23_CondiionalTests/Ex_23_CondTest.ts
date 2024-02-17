@@ -39,3 +39,4 @@ console.log(car.substring(0, 3) === 'sub');
 //Test10
 console.log("\nTest#10: Does car contain the substring 'toy'? I predict False.");
 console.log(car.substring(0, 3) === 'toy');
+
