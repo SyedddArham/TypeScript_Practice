@@ -19,6 +19,5 @@ function check_age(age) {
 check_age(age = 1);
 check_age(age = 3);
 check_age(age = 19);
-check_age(age = 19);
 check_age(age = 50);
 check_age(age = 65);
